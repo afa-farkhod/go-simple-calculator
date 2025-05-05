@@ -52,10 +52,10 @@ Enter second number: 4
 
 - Clear folder structure with separate files per operation
 - Proper error handling for division by zero
+- Modular and extensible Go code
 
-Modular and extensible Go code
+## 🛠 Technologies
 
-🛠 Technologies
-Go (Golang) 1.22+
-Standard Library only (fmt, errors)
+- Go (Golang) 1.22+
+- Standard Library only (fmt, errors)
 
