@@ -23,35 +23,35 @@ simple-calculator
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
+1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/afa-farkhod/simple-calculator.git
 cd simple-calculator
 ```
 
 2. Initialize the module
-bash
-Copy
-Edit
+```
 go mod init simple-calculator
+```
+
 3. Run the program
-bash
-Copy
-Edit
+```
 go run main.go
-💡 Example Usage
-sql
-Copy
-Edit
+```
+
+## 💡 Example Usage
+```
 Enter first number: 12
 Enter operator (+, -, *, /): /
 Enter second number: 4
 ✅ Result: 3.00
-📦 Features
-Clear folder structure with separate files per operation
+```
 
-Proper error handling for division by zero
+## 📦 Features
+
+- Clear folder structure with separate files per operation
+- Proper error handling for division by zero
 
 Modular and extensible Go code
 
